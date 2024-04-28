@@ -602,12 +602,11 @@ council.html
                     <td> <img src="Screenshot 2024-04-28 221853.png"> </td>
                 </tr>
                 <tr align="center">
-                    <th> vivek </th>
-                    <th> Akhil </th>
-                    <th> Nanditha </th>
-                    <th> Vaavi </th>
-                    <th> Ankitha </th>
-                    <th> Ramya </th>
+                    <th> KISHORE A </th>
+                    <th> GAYLE </th>
+                    <th> DEVILLIERS </th>
+                    <th> MAXWELL </th>
+                    <th> VIRAT </th>
                 </tr>
                 <tr align="center">
                     <td> CEO </td>
