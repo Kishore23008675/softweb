@@ -863,7 +863,8 @@ contact_us.html
 ![alt text](<Screenshot 2024-04-28 224948.png>) 
 ![alt text](<Screenshot 2024-04-28 225126.png>) 
 ![alt text](<Screenshot 2024-04-28 225433.png>) 
-![alt text](<Screenshot 2024-04-28 225510.png>)
+![image](https://github.com/Kishore23008675/softweb/assets/144979375/7ef081c3-f9f7-4b4c-90f6-823730bcc442)
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
